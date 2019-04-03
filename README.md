@@ -9,4 +9,4 @@ frames2mp4.py: save the frame as mp4
 
 ## result example
 
-<img src="result.gif" width="300">
+<img src="result.gif" width="600">
